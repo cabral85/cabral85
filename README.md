@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabral85" alt="cabral85" /></a> </p>
 
-- 🔭 I’m currently working on **Recrutador Agil Tools - Private Project**
+- 🔭 I’m currently working on **PlayNow - Platform that connect music teacher with people who wanna learn some music instrument or music theory**
 
-- 🌱 I’m currently learning **about Full Cycle Developer**
+- 🌱 I’m currently learning **Data Engineer fundamentals**
 
 - 📫 How to reach me **cabral85@gmail.com**
 
