@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis Lopes</h1>
 
-<p> Currently I'm a backend developer, my principal language is Java, but I have worked with Python and NodeJS too. </p>
-<p> I'm working to BairesDev allocated on Pinterest </p>
+<p> <b>Data Engineer at Baires Dev</b> </p>
 
 <p align="left"> <a href="https://github.com/cabral85"><img src="https://github-profile-trophy.vercel.app/?username=cabral85" alt="cabral85" /></a> </p>
 
