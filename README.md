@@ -3,7 +3,7 @@
 <p> Currently I'm a backend developer, my principal language is Java, but I have worked with Python and NodeJS too. </p>
 <p> I'm working to BairesDev allocated on Pinterest </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabral85" alt="cabral85" /></a> </p>
+<p align="left"> <a href="https://github.com/cabral85/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabral85" alt="cabral85" /></a> </p>
 
 - 🔭 I’m currently working on **PlayNow - Platform that connect music teacher with people who wanna learn some music instrument or music theory**
 
