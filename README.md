@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://github.com/cabral85"><img src="https://github-profile-trophy.vercel.app/?username=cabral85" alt="cabral85" /></a> </p>
 
-- 🔭 I’m currently working on **PlayNow - Platform that connect music teacher with people who wanna learn some music instrument or music theory**
-
-- 🌱 I’m currently learning **Data Engineer fundamentals**
-
 - 📫 How to reach me **cabral85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
